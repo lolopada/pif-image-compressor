@@ -26,7 +26,6 @@
         <li><a href="#visualisateur-affichage"><strong>Visualisateur - Affichage de l'image</strong></a> - page 17</li>
         <li><a href="#visualisateur-classes"><strong>Visualisateur - Diagramme de classes</strong></a> - page 18</li>
         <li><a href="#exemple-usage"><strong>Exemple d'usage (Makefile)</strong></a> - page 19</li>
-        <li><a href="#conclusions"><strong>Conclusions personnelles</strong></a> - page 20</li>
     </ul>
 </div>
 
